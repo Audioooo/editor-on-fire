@@ -19,3 +19,7 @@ If you're using Linux or if you want to experiment with the source code yourself
 https://github.com/raynebc/editor-on-fire/tree/wiki
 
 MP3 decoding and OGG encoding capabilities will require LAME and Vorbis Tools to be installed manually, otherwise EOF will warn that applicable features are disabled.
+
+# Audioooo fork #
+
+This version features Rocksmith friendly features such as notes playing a sound even when mTones are off, handshape marker marks all the way up to the next note of last selected note and other features I forgot! This is my first time using Github so let me know if I broke something!
